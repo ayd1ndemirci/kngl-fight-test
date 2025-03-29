@@ -78,5 +78,40 @@
         "id": 16,
         "name": "HabiBET",
         "fotoPath": "/images/kngl-43.png"
+    },
+    {
+        "id": 17,
+        "name": "Abdullah Ö",
+        "fotoPath": "/images/kngl-44.png"
+    },
+    {
+        "id": 18,
+        "name": "MagandaNQ",
+        "fotoPath": "/images/kngl-45.png"
+    },
+    {
+        "id": 19,
+        "name": "Baran",
+        "fotoPath": "/images/kngl-46.png"
+    },
+    {
+        "id": 20,
+        "name": "Usta",
+        "fotoPath": "/images/kngl-47.png"
+    },
+    {
+        "id": 21,
+        "name": "Yogali",
+        "fotoPath": "/images/kngl-48.png"
+    },
+    {
+        "id": 22,
+        "name": "Ahmad",
+        "fotoPath": "/images/kngl-49.png"
+    },
+    {
+        "id": 23,
+        "name": "Vıtıcın",
+        "fotoPath": "/images/kngl-50.png"
     }
 ]
